@@ -21,3 +21,11 @@ bin/kafka-topics.sh --create --zookeeper 0.0.0.0:2181 --replication-factor 1 --p
 ./bin/kafka-console-producer.sh --broker-list 0.0.0.0:9092 --topic test-kafka
 
 ```
+
+
+# ก่อนรันอย่าลืมโหลด 
+
+java sdk
+ใช้ HomeBrew ลง
+
+
